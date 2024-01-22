@@ -1,5 +1,5 @@
 # Assignment Links:
-1. Assignment 1: <hr>
+1. Assignment 1:<hr>
    a. Docker-SQL:  
    b. GCP-Terraform:  
 
